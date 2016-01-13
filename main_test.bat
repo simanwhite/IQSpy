@@ -1,0 +1,1 @@
+Python27\python.exe main_controller.pyw
